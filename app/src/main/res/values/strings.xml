@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StorageApp</string>
+    <string name="share_preferences_text">Share Preferences</string>
+    <string name="text_loki">Text Loki</string>
+    <string name="text_mobius">Text Morbius</string>
+    <string name="hint_edit_text">Aa</string>
+    <string name="clear_conversation">Clear conversation</string>
+</resources>
